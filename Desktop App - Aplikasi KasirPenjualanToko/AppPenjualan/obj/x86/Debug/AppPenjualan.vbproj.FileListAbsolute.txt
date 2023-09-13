@@ -1,0 +1,178 @@
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbprojResolveAssemblyReference.cache
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\Aplikasi Penjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbprojResolveAssemblyReference.cache
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\bin\Debug\Microsoft.Office.Interop.InfoPath.SemiTrust.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\bin\Debug\Microsoft.Office.InfoPath.Permission.dll
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe.manifest
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.application
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe.manifest
+D:\Aplikasi Penjualan - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.application
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CRVIEWERLib.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe.manifest
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.application
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\Microsoft.Office.Interop.InfoPath.SemiTrust.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\Microsoft.Office.InfoPath.Permission.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\Interop.CRVIEWERLib.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.CRVIEWERLib.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbprojResolveAssemblyReference.cache
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe.manifest
+D:\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.application
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CRVIEWERLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe.manifest
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.application
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\Microsoft.Office.Interop.InfoPath.SemiTrust.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\Microsoft.Office.InfoPath.Permission.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\Interop.CRVIEWERLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.CRVIEWERLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe.manifest
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.application
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CRAXDDRT.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CRAXDRT.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CRDESIGNERLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CREXPORTLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CRPEAuto.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CrystalReportWizard.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.RDWIZLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CRAXDDRT.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CRAXDRT.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CRDESIGNERLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CREXPORTLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CRPEAuto.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CRVIEWERLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.CrystalReportWizard.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.RDWIZLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe.manifest
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.application
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\bin\Debug\Microsoft.Office.Interop.InfoPath.SemiTrust.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\bin\Debug\Microsoft.Office.InfoPath.Permission.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\bin\Debug\Interop.CRVIEWERLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.CRVIEWERLib.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe.manifest
+H:\Backup\Backup PI Fix Imam\Aplikasi Penjualan Toko Muti - Copy\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.application
